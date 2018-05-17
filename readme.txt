@@ -1,1 +1,1 @@
-最简化 cocos2d-x
+最简化 cocos2d-x，在cocos2d-x 3.16 版本上去除了lua,js,physic等扩展模块。
