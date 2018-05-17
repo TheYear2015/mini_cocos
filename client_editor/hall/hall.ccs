@@ -1,0 +1,22 @@
+<Solution>
+  <PropertyGroup Name="hall" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="hall">
+          <Folder Name="images">
+            <Folder Name="back">
+              <Image Name="loading.jpg" />
+              <Image Name="logo.png" />
+            </Folder>
+            <Folder Name="ui" />
+          </Folder>
+          <Folder Name="scenes">
+            <Project Name="loadingscene.csd" Type="Scene" />
+            <Project Name="loginscene.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

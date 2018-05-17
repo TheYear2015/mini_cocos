@@ -1,0 +1,1 @@
+cocos compile -s ../client -p android -m release --lua-encrypt --lua-encrypt-key (dsf)98$#mBYU331KJuf --lua-encrypt-sign sign-fengwei --compile-script 0
